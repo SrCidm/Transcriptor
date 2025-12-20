@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.mp3
+*.txt
+temp_youtube_audio*
+.DS_Store
